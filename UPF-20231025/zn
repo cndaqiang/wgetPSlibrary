@@ -1,0 +1,240 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Pseudo search results - QUANTUMESPRESSO</title>
+    <meta name="generator" content="GravCMS" />
+<meta name="description" content="Grav is an easy to use, yet powerful, open source flat-file CMS" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="robots" content="follow, all" />
+<meta name="google-site-verification" content="g4CG61y_kLfkqAsfUPkF2MefchgN00GozvDUZMeK4z8" />        <link rel="canonical" href="http://pseudopotentials.quantum-espresso.org/legacy_tables/ps-library/zn" />
+
+                                                    
+                                
+        <link href="/user/themes/quantum/css/style.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/quantum/css/style-red.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/quantum/css/superfish.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/quantum/css/bootstrap.css" type="text/css" rel="stylesheet">
+<link href="/user/themes/quantum/css/prettyPhoto.css" type="text/css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lato:300" type="text/css" rel="stylesheet">
+<link href="/user/plugins/markdown-notices/assets/notices.css" type="text/css" rel="stylesheet">
+<link href="/user/plugins/form/assets/form-styles.css" type="text/css" rel="stylesheet">
+<link href="/user/plugins/mathjax/assets/css/mathjax.css" type="text/css" rel="stylesheet">
+<link href="/user/plugins/login/css/login.css" type="text/css" rel="stylesheet">
+
+
+                                                    
+        
+        
+
+        <script src="/user/themes/quantum/js/jquery.js"></script>
+<script src="/user/plugins/mathjax/assets/js/mathjax.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="/user/themes/quantum/js/jquery.cycle.all.js"></script>
+<script src="/user/themes/quantum/js/custom.js"></script>
+<script src="/user/themes/quantum/js/superfish.js"></script>
+<script src="/user/themes/quantum/js/jquery.prettyPhoto.js"></script>
+<script src="/user/themes/quantum/js/functions.js"></script>
+<script>
+
+</script>
+
+
+</head>
+<body class="">
+  <div id="outer-container">
+    <div id="inner-container">
+    <!-- BEGIN HEADER -->
+      <div id="header">
+        <div id="logo">
+          <a href="/">
+            <img src="/user/themes/quantum/images/logo_header.jpg" alt="QUANTUMESPRESSO" />
+          </a>                  
+        </div>
+        
+
+
+
+
+
+
+
+
+  
+        <div id="nav-menu">
+             
+<ul id="menu-menu" class="sf-menu">
+    <li class="menu-item" >  
+    <a class="sf-with-ul" href="http://www.quantum-espresso.org">
+      HOME
+    </a>
+    </li>  
+                                    <li class=" menu-item ">
+                <a  href="/" >
+                    Pseudopotentials
+                </a>
+            </li>
+            
+</ul>
+
+        </div>
+      </div>
+      <!-- END OF HEADER -->
+      <!-- BEGIN CONTENT -->
+      	<div id="content-inner">
+    <div id="left-bar">
+          </div>
+                           
+    <div id="content-right" class="full-width">                   
+      <div id="page-title">
+        <h1>Pseudo search results</h1>
+      </div>
+      
+      <div class="maincontent">
+        <div>
+<table class="tablewithstyle"> <tr><td><p>Pseudopotential File</p></td>
+ <td><p>Test files</p></td></tr>
+<tr><td><a class="element_anchor" target="_blank" href="/upf_files/Zn.pbe-dnl-kjpaw_psl.1.0.0.UPF"> Zn.pbe-dnl-kjpaw_psl.1.0.0.UPF</a>
+<pre>
+Origin: PS Library
+Author: ADC 
+Generated using "atomic" code by A. Dal Corso  v.6.2.2
+
+Pseudopotential type: PAW 
+Functional type: PBE
+Non Linear Core Correction
+Scalar relativistic
+</pre></td><td><ul></ul></td></tr>
+<tr><td><a class="element_anchor" target="_blank" href="/upf_files/Zn.pbe-dnl-rrkjus_psl.1.0.0.UPF"> Zn.pbe-dnl-rrkjus_psl.1.0.0.UPF</a>
+<pre>
+Origin: PS Library
+Author: ADC 
+Generated using "atomic" code by A. Dal Corso  v.6.2.2
+
+Pseudopotential type: USPP 
+Functional type: PBE
+Non Linear Core Correction
+Scalar relativistic
+</pre></td><td><ul></ul></td></tr>
+<tr><td><a class="element_anchor" target="_blank" href="/upf_files/Zn.pbesol-dnl-kjpaw_psl.1.0.0.UPF"> Zn.pbesol-dnl-kjpaw_psl.1.0.0.UPF</a>
+<pre>
+Origin: PS Library
+Author: ADC 
+Generated using "atomic" code by A. Dal Corso  v.6.2.2
+
+Pseudopotential type: PAW 
+Functional type: PBESOL
+Non Linear Core Correction
+Scalar relativistic
+</pre></td><td><ul></ul></td></tr>
+<tr><td><a class="element_anchor" target="_blank" href="/upf_files/Zn.pbesol-dnl-rrkjus_psl.1.0.0.UPF"> Zn.pbesol-dnl-rrkjus_psl.1.0.0.UPF</a>
+<pre>
+Origin: PS Library
+Author: ADC 
+Generated using "atomic" code by A. Dal Corso  v.6.2.2
+
+Pseudopotential type: USPP 
+Functional type: PBESOL
+Non Linear Core Correction
+Scalar relativistic
+</pre></td><td><ul></ul></td></tr>
+<tr><td><a class="element_anchor" target="_blank" href="/upf_files/Zn.pz-dnl-kjpaw_psl.1.0.0.UPF"> Zn.pz-dnl-kjpaw_psl.1.0.0.UPF</a>
+<pre>
+Origin: PS Library
+Author: ADC 
+Generated using "atomic" code by A. Dal Corso  v.6.2.2
+
+Pseudopotential type: PAW 
+Functional type: PERDEW-ZUNGER (LDA) exch-corr
+Non Linear Core Correction
+Scalar relativistic
+</pre></td><td><ul></ul></td></tr>
+<tr><td><a class="element_anchor" target="_blank" href="/upf_files/Zn.pz-dnl-rrkjus_psl.1.0.0.UPF"> Zn.pz-dnl-rrkjus_psl.1.0.0.UPF</a>
+<pre>
+Origin: PS Library
+Author: ADC 
+Generated using "atomic" code by A. Dal Corso  v.6.2.2
+
+Pseudopotential type: USPP 
+Functional type: LDA
+Non Linear Core Correction
+Scalar relativistic
+</pre></td><td><ul></ul></td></tr>
+<tr><td><a class="element_anchor" target="_blank" href="/upf_files/Zn.rel-pbe-dnl-kjpaw_psl.1.0.0.UPF"> Zn.rel-pbe-dnl-kjpaw_psl.1.0.0.UPF</a>
+<pre>
+Origin: PS Library
+Author: ADC 
+Generated using "atomic" code by A. Dal Corso  v.6.2.2
+
+Pseudopotential type: PAW 
+Functional type: PBE
+Non Linear Core Correction
+Full relativistic
+</pre></td><td><ul></ul></td></tr>
+<tr><td><a class="element_anchor" target="_blank" href="/upf_files/Zn.rel-pbe-dnl-rrkjus_psl.1.0.0.UPF"> Zn.rel-pbe-dnl-rrkjus_psl.1.0.0.UPF</a>
+<pre>
+Origin: PS Library
+Author: ADC 
+Generated using "atomic" code by A. Dal Corso  v.6.2.2
+
+Pseudopotential type: USPP 
+Functional type: PBE
+Non Linear Core Correction
+Full relativistic
+</pre></td><td><ul></ul></td></tr>
+<tr><td><a class="element_anchor" target="_blank" href="/upf_files/Zn.rel-pz-dnl-kjpaw_psl.1.0.0.UPF"> Zn.rel-pz-dnl-kjpaw_psl.1.0.0.UPF</a>
+<pre>
+Origin: PS Library
+Author: ADC 
+Generated using "atomic" code by A. Dal Corso  v.6.2.2
+
+Pseudopotential type: PAW 
+Functional type: PERDEW-ZUNGER (LDA) exch-corr
+Non Linear Core Correction
+Full relativistic
+</pre></td><td><ul></ul></td></tr>
+<tr><td><a class="element_anchor" target="_blank" href="/upf_files/Zn.rel-pz-dnl-rrkjus_psl.1.0.0.UPF"> Zn.rel-pz-dnl-rrkjus_psl.1.0.0.UPF</a>
+<pre>
+Origin: PS Library
+Author: ADC 
+Generated using "atomic" code by A. Dal Corso  v.6.2.2
+
+Pseudopotential type: USPP 
+Functional type: LDA
+Non Linear Core Correction
+Full relativistic
+</pre></td><td><ul></ul></td></tr>
+</table>
+</div>
+    </div>
+  </div>
+  
+      <!-- BEGIN FOOTER -->
+      <div id="footer">
+        <div class="footer-logo">
+               <a href="https://foundation.quantum-espresso.org">
+               <img src="/user/themes/quantum/images/logo_qef_cropped.jpg" alt="QUANTUM Espresso Foundation" /> 
+               </a>
+                       <a href="http://www.max-centre.eu/" align="right">
+		<img src="/user/themes/quantum/images/MAX_logo.png" alt="Quantum Espresso is a flaghip code of the MaX CoE">
+               </a>
+
+       </div>
+        <div class="footer-cite">
+          What I cannot <span class="red">compute</span>, I do not understand (adapted from Richard P. Feynman)<br />
+        </div>
+        <div class="footer-text">      
+          
+        </div>
+       
+      </div>            
+    <div class="footer-logo">
+    </div>
+
+                  <!-- END OF FOOTER -->                      
+    </div>
+
+  </div>
+
+</body>
+</html>
